@@ -129,3 +129,5 @@ thethorgroup.virtio
 编译`geminilake`需要加入`jumkey.dtb`扩展并参考[这里](https://github.com/jumkey/redpill-load/blob/develop/redpill-dtb/README.md)创建设备的二进制设备树
 
 查看基于[test.yml](https://github.com/tossp/redpill-tool-chain/blob/master/.github/workflows/test.yml)的使用[示例](https://github.com/tossp/redpill-tool-chain/actions/workflows/test.yml)
+
+
